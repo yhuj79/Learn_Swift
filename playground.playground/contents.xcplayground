@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='TestOne'/>
-        <page name='TestTwo'/>
+        <page name='02StringInterpolation'/>
+        <page name='02Integer'/>
+        <page name='03BoolString'/>
+        <page name='03Tuple'/>
+        <page name='04DictionarySorted'/>
+        <page name='04DictionaryIf'/>
+        <page name='04Enumeration'/>
+        <page name='07Function'/>
     </pages>
 </playground>
