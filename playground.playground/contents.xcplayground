@@ -9,5 +9,10 @@
         <page name='04DictionaryIf'/>
         <page name='04Enumeration'/>
         <page name='07Function'/>
+        <page name='08Optional'/>
+        <page name='09Struct'/>
+        <page name='09Class'/>
+        <page name='10CoordinatePoint'/>
+        <page name='10Pocket'/>
     </pages>
 </playground>
